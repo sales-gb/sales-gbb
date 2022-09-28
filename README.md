@@ -1,4 +1,4 @@
-### Olá eu sou o Gabriel Sales
+### Olá eu sou o Gabriel Sales! Estudande de desenvolvimento web
 
 <div align="center">
   <a href="https://github.com/sales-gb">
