@@ -11,7 +11,11 @@
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Gabriel-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-          
+  <img align="center" alt="Gabriel-GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" /> 
+  <img align="center" alt="Gabriel-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" /> 
+  <img align="center" alt="Gabriel-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />        
+  
+  
 </div>
 
 ##
