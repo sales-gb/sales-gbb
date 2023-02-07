@@ -1,4 +1,6 @@
 ### Olá eu sou o Gabriel Sales! Desenvolvedor Front-End e estudande de desenvolvimento web 😁
+#### Aqui no meu GitHub você encontrará apenas alguns dos meus projetos, pois a maioria deles são projetos acadêmicos e eu não tenho autorização da instituição para compartilhar seus códigos. No entanto, em meu portfólio web você poderá ver um pouco mais sobre minhas habilidades e projetos!
+### <a target="blank" href="https://sales-gb.github.io/portfolio-sales-gb/">Portfólio</a>
 
 <div align="center">
   <a href="https://github.com/sales-gb">
