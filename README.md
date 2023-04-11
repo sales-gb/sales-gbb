@@ -1,4 +1,4 @@
-# Olá! Meu nome é Gabriel Sales 
+# Olá! Meu nome é Gabriel Sales 😁
 
 #### Eu sou um desenvolvedor front-end apaixonado por criar experiências incríveis na web. Com habilidades em React, TypeScript HTML, CSS e JavaScript dentre outros, adoro transformar ideias em realidade com interfaces elegantes e funcionais. Seja um site, ou plataforma web, estou sempre buscando maneiras de tornar a navegação do usuário mais intuitiva e agradável. Vamos trabalhar juntos para construir uma presença online que se destaque da concorrência?
 
