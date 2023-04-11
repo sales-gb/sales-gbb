@@ -1,5 +1,8 @@
-### Olá eu sou o Gabriel Sales! Desenvolvedor Front-End e estudande de desenvolvimento web Full Stack 😁
-#### Aqui no meu GitHub você encontrará apenas alguns dos meus projetos, pois a maioria deles são projetos acadêmicos e eu não tenho autorização da instituição para compartilhar seus códigos. No entanto, em meu portfólio web você poderá ver um pouco mais sobre minhas habilidades e projetos!
+# Olá! Meu nome é Gabriel Sales 
+
+#### Eu sou um desenvolvedor front-end apaixonado por criar experiências incríveis na web. Com habilidades em React, TypeScript HTML, CSS e JavaScript dentre outros, adoro transformar ideias em realidade com interfaces elegantes e funcionais. Seja um site, ou plataforma web, estou sempre buscando maneiras de tornar a navegação do usuário mais intuitiva e agradável. Vamos trabalhar juntos para construir uma presença online que se destaque da concorrência?
+
+#### Veja um pouco mais do meu trabalho em meu portfólio logo abaixo:
 ### <a target="blank" href="https://sales-gb.github.io/portfolio-sales-gb/">Portfólio</a>
 
 <div align="center">
@@ -16,6 +19,7 @@
   <img align="center" alt="Gabriel-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Gabriel-NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Gabriel-ExpressJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
+  <img align="center" alt="Gabriel-PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Gabriel-GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" /> 
   <img align="center" alt="Gabriel-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" /> 
   <img align="center" alt="Gabriel-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />        
