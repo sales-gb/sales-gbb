@@ -1,8 +1,8 @@
-# Olá! Meu nome é Gabriel Sales 😁
+# Hello! My name is Gabriel Sales. 😁
 
-#### Eu sou um desenvolvedor front-end apaixonado por criar experiências incríveis na web. Com habilidades em React, TypeScript HTML, CSS e JavaScript dentre outros, adoro transformar ideias em realidade com interfaces elegantes e funcionais. Seja um site, ou plataforma web, estou sempre buscando maneiras de tornar a navegação do usuário mais intuitiva e agradável. Vamos trabalhar juntos para construir uma presença online que se destaque da concorrência?
+#### I am a front-end developer passionate about creating amazing web experiences. With skills in React, TypeScript, HTML, CSS, and JavaScript, among others, I love turning ideas into reality with elegant and functional interfaces. Whether it's a website or a web platform, I'm always looking for ways to make user navigation more intuitive and enjoyable. Let's work together to build an online presence that stands out from the competition?
 
-#### Veja um pouco mais do meu trabalho em meu portfólio logo abaixo:
+#### Check out more of my work in my portfolio just below:
 ### <a target="blank" href="https://sales-gb.github.io/portfolio-sales-gb/">Portfólio</a>
 
 <div align="center">
