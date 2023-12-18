@@ -4,7 +4,7 @@
 
 #### Seja um site, ou plataforma web, estou sempre buscando maneiras de tornar a navegação do usuário mais intuitiva e agradável. Vamos trabalhar juntos para construir uma presença online que se destaque da concorrência?
 
-#### Veja um pouco do meu trabalho aqui no perfil ou se preferir acesse meu portfólio web: <a target="blank" href="https://sales-gb.github.io/portfolio-sales-gb/">Portfólio</a>
+#### Veja um pouco do meu trabalho aqui no perfil ou se preferir acesse meu portfólio web: <a target="blank" href="https://portfolio-gabriel-sales.vercel.app">Portfólio</a>
 
 <div align="center">
   <a href="https://github.com/sales-gb">
